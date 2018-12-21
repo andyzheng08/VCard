@@ -1,0 +1,28 @@
+.rectangle {
+  position: absolute;
+  width: 655px;
+  height: 326px;
+  background: #F29B5C;
+}
+.gegevens {
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 20px;
+}
+img {
+  float: left;
+  max-width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  line-height: normal;
+  left: 100px;
+}
+
+
+
+
+
+
