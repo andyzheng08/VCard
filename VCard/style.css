@@ -1,24 +1,30 @@
-.rectangle {
-  position: absolute;
-  width: 655px;
-  height: 326px;
-  background: #F29B5C;
+.card {
+  width: 1000px;
+  height: 500px;
+  position: relative;
+  background: rgb(78, 233, 155);
+  border: outset black 3px;
 }
+
 .gegevens {
   float: right;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   line-height: normal;
-  font-size: 20px;
+  font-size: 26px;
+  margin-right: 150px;
+  color: rgb(70, 60, 60)
 }
+
 img {
   float: left;
-  max-width: 280px;
-  height: 280px;
+  max-width: 300px;
+  height: 300px;
   border-radius: 50%;
-  line-height: normal;
-  left: 100px;
+  margin-left: 80px;
+  margin-top: 100px;
+  overflow: hidden;
 }
 
 
